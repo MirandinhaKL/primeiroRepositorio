@@ -2,9 +2,6 @@ package iterator.alimento;
 
 import java.util.ArrayList;
 
-/**
- * @author kmiranda
- */
 public class IteradorDeArrayList implements Iterador {
 
     protected ArrayList<Alimento> lista;
